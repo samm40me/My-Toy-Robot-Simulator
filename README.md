@@ -113,11 +113,11 @@ Output: 3,3,NORTH
 
 ## Usage
 
-To use on setup the python script and expand it into a working, responsive web application, continuously deployed in AWS Cloud:
+To use and setup the python script and expand into a working, responsive web application, continuously deployed in AWS Cloud:
 
 To connect to Ubuntu Server:
 
-    log into aws ec2 condole and create an ec2 instance with SSH and HTTP security group
+    log into aws ec2 console and create an ec2 instance with SSH and HTTP security group
     
     download keypairs to configure putty and connect to the Ubuntu Serser
 
