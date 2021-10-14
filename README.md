@@ -139,4 +139,4 @@ To run the simulator interactively:
 
 To run with Ubuntu & GNU Screen:
     screen
-    ps aux | grep run.py
+    ps aux | grep run.py 
