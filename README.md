@@ -135,5 +135,8 @@ To run the simulator interactively:
     ls
     cd folder/
     ls
-    python pythonfile.py (name of python main file)
+    python run.py 
 
+To run with Ubuntu & GNU Screen:
+    screen
+    ps aux | grep run.py
