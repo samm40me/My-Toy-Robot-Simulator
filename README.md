@@ -138,5 +138,6 @@ To run the simulator interactively:
     python run.py 
 
 To run with Ubuntu & GNU Screen:
+
     screen
     ps aux | grep run.py 
