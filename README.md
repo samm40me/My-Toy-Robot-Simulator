@@ -126,7 +126,7 @@ To run python and GNU Screen on Ubuntu Server:
     sudo apt-get update
     sudo apt install python3-pip
     sudo apt install python3-regex
-    sudo apt-get install screem
+    sudo apt-get install screen
 
 To run the simulator interactively:
 
